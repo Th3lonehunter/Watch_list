@@ -1,0 +1,15 @@
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.Account_Creation.resources
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.Login.resources
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.TVList_screen.resources
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.Properties.Resources.resources
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.Main.resources
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.TV_Details.resources
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.csproj.GenerateResource.cache
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.csproj.CoreCompileInputs.cache
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\bin\Debug\Watch_list.exe.config
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\bin\Debug\Watch_list.exe
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\bin\Debug\Watch_list.pdb
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.exe
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.pdb
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.csprojAssemblyReference.cache
+D:\Skill_test_Projects\C#_projects\Watch_List\Watch_list\obj\Debug\Watch_list.Veriffication.resources
